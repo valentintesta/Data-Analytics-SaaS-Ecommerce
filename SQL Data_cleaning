@@ -1,0 +1,56 @@
+Exploración inicial (EDA)
+
+-- Ver planes existentes
+SELECT DISTINCT plan
+FROM subscriptions;
+
+-- Ver billing cycles
+SELECT DISTINCT billing_cycle
+FROM subscriptions;
+
+-- Ver tamaños de empresa
+SELECT DISTINCT company_size
+FROM subscriptions;
+
+-- Normalizar planes
+UPDATE subscriptions
+SET plan = 'Enterprise'
+WHERE LOWER(plan) = 'enterprise';
+
+Limpieza de datos
+
+-- Check for duplicates
+SELECT customer_id, COUNT(*)
+FROM subscriptions
+GROUP BY customer_id
+HAVING COUNT(*) > 1;
+
+-- Replace null churn reasons
+UPDATE subscriptions
+SET churn_reason = 'Unknown'
+WHERE churn_reason IS NULL;
+
+Análisis de churn
+
+-- Overall churn rate
+SELECT 
+COUNT(CASE WHEN churn_date IS NOT NULL THEN 1 END) * 1.0 /
+COUNT(*) AS churn_rate
+FROM subscriptions;
+
+-- Churn by plan
+SELECT
+plan,
+COUNT(CASE WHEN churn_date IS NOT NULL THEN 1 END) * 1.0 /
+COUNT(*) AS churn_rate
+FROM subscriptions
+GROUP BY plan
+ORDER BY churn_rate DESC;
+
+-- Calculate churn rate by subscription plan
+SELECT
+plan,
+COUNT(CASE WHEN churn_date IS NOT NULL THEN 1 END) * 1.0 /
+COUNT(*) AS churn_rate
+FROM subscriptions
+GROUP BY plan;
