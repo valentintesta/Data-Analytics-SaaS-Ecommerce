@@ -1,0 +1,253 @@
+return_id,order_item_id,return_date,reason
+1,1320,2025-05-10,Item arrived late
+2,1602,2025-05-10,No longer needed
+3,1521,2025-05-10,No longer needed
+4,878,2025-05-10,Too expensive
+5,1199,2025-05-10,Item arrived late
+6,1300,2025-05-10,No longer needed
+7,113,2025-05-10,Item arrived late
+8,1191,2025-05-10,Item damaged
+9,1336,2025-05-10,Wrong item delivered
+10,535,2025-05-10,Too expensive
+11,1627,2025-05-10,Too expensive
+12,1613,2025-05-10,Item damaged
+13,1367,2025-05-10,No longer needed
+14,1681,2025-05-10,Item arrived late
+15,172,2025-05-10,Wrong item delivered
+16,461,2025-05-10,Item arrived late
+17,257,2025-05-10,Too expensive
+18,2214,2025-05-10,Wrong item delivered
+19,2055,2025-05-10,No longer needed
+20,495,2025-05-10,Item arrived late
+21,441,2025-05-10,Wrong item delivered
+22,255,2025-05-10,Wrong item delivered
+23,1759,2025-05-10,Wrong item delivered
+24,1405,2025-05-10,No longer needed
+25,1731,2025-05-10,Item arrived late
+26,1024,2025-05-10,Wrong item delivered
+27,2388,2025-05-10,Item damaged
+28,490,2025-05-10,Too expensive
+29,1234,2025-05-10,Item damaged
+30,2183,2025-05-10,Item damaged
+31,278,2025-05-10,No longer needed
+32,2126,2025-05-10,Wrong item delivered
+33,432,2025-05-10,No longer needed
+34,2067,2025-05-10,No longer needed
+35,1258,2025-05-10,Item arrived late
+36,117,2025-05-10,Item arrived late
+37,1769,2025-05-10,Item arrived late
+38,2380,2025-05-10,Item arrived late
+39,1890,2025-05-10,Item arrived late
+40,705,2025-05-10,Too expensive
+41,1492,2025-05-10,Wrong item delivered
+42,1094,2025-05-10,No longer needed
+43,1954,2025-05-10,Wrong item delivered
+44,2441,2025-05-10,Item arrived late
+45,2202,2025-05-10,Item damaged
+46,1780,2025-05-10,Item arrived late
+47,403,2025-05-10,No longer needed
+48,909,2025-05-10,Wrong item delivered
+49,2103,2025-05-10,No longer needed
+50,443,2025-05-10,Item damaged
+51,973,2025-05-10,Too expensive
+52,1766,2025-05-10,Too expensive
+53,717,2025-05-10,No longer needed
+54,1325,2025-05-10,Item damaged
+55,619,2025-05-10,Item arrived late
+56,720,2025-05-10,Too expensive
+57,1999,2025-05-10,Item arrived late
+58,1070,2025-05-10,No longer needed
+59,1750,2025-05-10,Item damaged
+60,671,2025-05-10,Too expensive
+61,2508,2025-05-10,Too expensive
+62,1861,2025-05-10,Item damaged
+63,1692,2025-05-10,Item damaged
+64,251,2025-05-10,Item damaged
+65,1712,2025-05-10,Wrong item delivered
+66,591,2025-05-10,Too expensive
+67,747,2025-05-10,Item damaged
+68,808,2025-05-10,Item arrived late
+69,1049,2025-05-10,No longer needed
+70,774,2025-05-10,Wrong item delivered
+71,2512,2025-05-10,Item arrived late
+72,800,2025-05-10,No longer needed
+73,1337,2025-05-10,Item damaged
+74,2498,2025-05-10,Wrong item delivered
+75,1877,2025-05-10,Too expensive
+76,347,2025-05-10,Wrong item delivered
+77,2316,2025-05-10,Too expensive
+78,1827,2025-05-10,Item damaged
+79,549,2025-05-10,Wrong item delivered
+80,2078,2025-05-10,No longer needed
+81,2194,2025-05-10,Item damaged
+82,2001,2025-05-10,Too expensive
+83,1544,2025-05-10,Too expensive
+84,285,2025-05-10,Item arrived late
+85,275,2025-05-10,Wrong item delivered
+86,371,2025-05-10,Item arrived late
+87,1908,2025-05-10,Item damaged
+88,6,2025-05-10,Item arrived late
+89,242,2025-05-10,No longer needed
+90,612,2025-05-10,Item arrived late
+91,2422,2025-05-10,Item arrived late
+92,1416,2025-05-10,No longer needed
+93,1243,2025-05-10,Wrong item delivered
+94,2048,2025-05-10,Too expensive
+95,994,2025-05-10,Too expensive
+96,979,2025-05-10,No longer needed
+97,78,2025-05-10,No longer needed
+98,690,2025-05-10,Too expensive
+99,1371,2025-05-10,Item damaged
+100,1347,2025-05-10,No longer needed
+101,529,2025-05-10,Wrong item delivered
+102,1328,2025-05-10,Wrong item delivered
+103,1695,2025-05-10,Item arrived late
+104,415,2025-05-10,No longer needed
+105,2075,2025-05-10,Wrong item delivered
+106,270,2025-05-10,Item arrived late
+107,355,2025-05-10,Item damaged
+108,2284,2025-05-10,Wrong item delivered
+109,942,2025-05-10,Item damaged
+110,2507,2025-05-10,Wrong item delivered
+111,1134,2025-05-10,Item damaged
+112,164,2025-05-10,Item arrived late
+113,1983,2025-05-10,Item damaged
+114,1382,2025-05-10,No longer needed
+115,208,2025-05-10,No longer needed
+116,2344,2025-05-10,Item arrived late
+117,536,2025-05-10,Item arrived late
+118,1522,2025-05-10,Item arrived late
+119,2146,2025-05-10,Wrong item delivered
+120,362,2025-05-10,No longer needed
+121,1385,2025-05-10,Too expensive
+122,2334,2025-05-10,Wrong item delivered
+123,10,2025-05-10,Item arrived late
+124,1658,2025-05-10,Wrong item delivered
+125,142,2025-05-10,Too expensive
+126,134,2025-05-10,No longer needed
+127,882,2025-05-10,Item arrived late
+128,427,2025-05-10,Wrong item delivered
+129,341,2025-05-10,No longer needed
+130,968,2025-05-10,No longer needed
+131,1617,2025-05-10,Item arrived late
+132,1944,2025-05-10,Item damaged
+133,176,2025-05-10,No longer needed
+134,1315,2025-05-10,Item arrived late
+135,1307,2025-05-10,No longer needed
+136,2063,2025-05-10,Item arrived late
+137,1598,2025-05-10,Too expensive
+138,1922,2025-05-10,Wrong item delivered
+139,984,2025-05-10,Wrong item delivered
+140,874,2025-05-10,Too expensive
+141,2072,2025-05-10,No longer needed
+142,1809,2025-05-10,Item arrived late
+143,200,2025-05-10,Too expensive
+144,148,2025-05-10,Too expensive
+145,2338,2025-05-10,Item arrived late
+146,2165,2025-05-10,Too expensive
+147,452,2025-05-10,Wrong item delivered
+148,96,2025-05-10,No longer needed
+149,1760,2025-05-10,Item arrived late
+150,1015,2025-05-10,Item arrived late
+151,913,2025-05-10,No longer needed
+152,1379,2025-05-10,Too expensive
+153,783,2025-05-10,Wrong item delivered
+154,764,2025-05-10,Item arrived late
+155,943,2025-05-10,Item arrived late
+156,1310,2025-05-10,No longer needed
+157,2286,2025-05-10,Too expensive
+158,1883,2025-05-10,Wrong item delivered
+159,81,2025-05-10,No longer needed
+160,1380,2025-05-10,Wrong item delivered
+161,1399,2025-05-10,Wrong item delivered
+162,1301,2025-05-10,Item damaged
+163,2516,2025-05-10,No longer needed
+164,2154,2025-05-10,Item damaged
+165,1198,2025-05-10,No longer needed
+166,1260,2025-05-10,Too expensive
+167,1607,2025-05-10,Item arrived late
+168,349,2025-05-10,Too expensive
+169,1797,2025-05-10,Item arrived late
+170,2139,2025-05-10,Wrong item delivered
+171,492,2025-05-10,Wrong item delivered
+172,1483,2025-05-10,Item arrived late
+173,1155,2025-05-10,Too expensive
+174,423,2025-05-10,Too expensive
+175,2348,2025-05-10,Too expensive
+176,1902,2025-05-10,Item damaged
+177,1583,2025-05-10,No longer needed
+178,479,2025-05-10,No longer needed
+179,940,2025-05-10,Item damaged
+180,35,2025-05-10,Item arrived late
+181,1289,2025-05-10,Item arrived late
+182,519,2025-05-10,Wrong item delivered
+183,1814,2025-05-10,No longer needed
+184,2245,2025-05-10,Item arrived late
+185,1402,2025-05-10,No longer needed
+186,2011,2025-05-10,Wrong item delivered
+187,1911,2025-05-10,Wrong item delivered
+188,762,2025-05-10,No longer needed
+189,1794,2025-05-10,Item damaged
+190,392,2025-05-10,No longer needed
+191,398,2025-05-10,Too expensive
+192,1156,2025-05-10,Item arrived late
+193,711,2025-05-10,Item damaged
+194,861,2025-05-10,Item damaged
+195,89,2025-05-10,Too expensive
+196,597,2025-05-10,Item damaged
+197,194,2025-05-10,Wrong item delivered
+198,218,2025-05-10,No longer needed
+199,1146,2025-05-10,Too expensive
+200,890,2025-05-10,Wrong item delivered
+201,1453,2025-05-10,Wrong item delivered
+202,104,2025-05-10,No longer needed
+203,576,2025-05-10,Item arrived late
+204,2336,2025-05-10,No longer needed
+205,2094,2025-05-10,Item damaged
+206,1044,2025-05-10,Item damaged
+207,2166,2025-05-10,Item damaged
+208,2350,2025-05-10,Wrong item delivered
+209,752,2025-05-10,Item damaged
+210,1242,2025-05-10,Wrong item delivered
+211,1722,2025-05-10,Wrong item delivered
+212,829,2025-05-10,Item damaged
+213,1903,2025-05-10,No longer needed
+214,207,2025-05-10,No longer needed
+215,2225,2025-05-10,Wrong item delivered
+216,494,2025-05-10,Wrong item delivered
+217,563,2025-05-10,Item arrived late
+218,1084,2025-05-10,Item arrived late
+219,2131,2025-05-10,Item damaged
+220,2045,2025-05-10,Item damaged
+221,2457,2025-05-10,Too expensive
+222,2423,2025-05-10,No longer needed
+223,1341,2025-05-10,Too expensive
+224,1433,2025-05-10,Too expensive
+225,1611,2025-05-10,Wrong item delivered
+226,397,2025-05-10,Wrong item delivered
+227,395,2025-05-10,Item damaged
+228,2467,2025-05-10,Too expensive
+229,2437,2025-05-10,Too expensive
+230,446,2025-05-10,Too expensive
+231,1174,2025-05-10,Item damaged
+232,613,2025-05-10,Item damaged
+233,1751,2025-05-10,Wrong item delivered
+234,721,2025-05-10,Item arrived late
+235,453,2025-05-10,Too expensive
+236,2076,2025-05-10,Wrong item delivered
+237,2105,2025-05-10,Item arrived late
+238,1285,2025-05-10,Wrong item delivered
+239,1247,2025-05-10,No longer needed
+240,1742,2025-05-10,Item arrived late
+241,734,2025-05-10,Too expensive
+242,2291,2025-05-10,Wrong item delivered
+243,1984,2025-05-10,Too expensive
+244,2421,2025-05-10,Too expensive
+245,901,2025-05-10,Item damaged
+246,486,2025-05-10,Item damaged
+247,838,2025-05-10,Item arrived late
+248,1916,2025-05-10,Too expensive
+249,741,2025-05-10,Too expensive
+250,2387,2025-05-10,No longer needed
+251,1294,2025-05-10,Wrong item delivered
+252,983,2025-05-10,Wrong item delivered

@@ -1,0 +1,11 @@
+product_id,product_name,category,price
+1,Wireless Mouse,Electronics,25.0
+2,Mechanical Keyboard,Electronics,75.0
+3,Standing Desk,Furniture,250.0
+4,Office Chair,Furniture,150.0
+5,Notebook Set,Stationery,10.0
+6,Pen Pack,Stationery,5.0
+7,Noise Cancelling Headphones,Electronics,200.0
+8,Monitor Arm,Furniture,90.0
+9,USB-C Hub,Electronics,40.0
+10,Planner,Stationery,12.0
